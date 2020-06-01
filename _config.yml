@@ -1,0 +1,10 @@
+# Site settings
+title: Gustavo Solcia
+tag_text: Gustavo Solcia
+description: PhD Student at USP
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
